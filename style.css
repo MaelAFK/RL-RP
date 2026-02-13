@@ -3,7 +3,7 @@
 
 body {  
 color: rgba(255, 0, 0, 0.886);
-background-image: url("Screenshot 2025-12-23 184551.png");
+background-image: url("ChatGPT\ Image\ 7.\ Feb.\ 2026\,\ 11_38_29.png");
 background-size: contain;   /* ← WICHTIG */
 background-position: center;
 background-repeat: no-repeat;
@@ -46,8 +46,8 @@ overflow: hidden;   /* ← verhindert Scrollen */
 }
 
 body {  
-color: rgba(255, 0, 0, 0.886);
-background-image: url("Screenshot 2025-12-23 184551.png");
+color: rgb(243, 247, 0);
+background-image: url("ChatGPT Image 7. Feb. 2026, 11_38_29.png");
 background-size: contain;   /* ← WICHTIG */
 background-position: center;
 background-repeat: no-repeat;
@@ -246,3 +246,5 @@ header {
 
   .user { text-align: right; color: #2c7be5; margin: 6px 0; }
   .bot { text-align: left; color: #333; margin: 6px 0; }
+
+  
