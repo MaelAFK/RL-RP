@@ -1,11 +1,11 @@
 
 body {  
-color: rgba(255, 0, 0, 0.886);
+color: rgb(255, 204, 0);
 background-image: url("ChatGPT\ Image\ 7.\ Feb.\ 2026\,\ 11_38_29.png");
-background-size: contain;   /* ← WICHTIG */
-background-position: center;
+
+
 background-repeat: no-repeat;
-background-color: rgba(11, 0, 110, 0.645);   /* Balken-Farbe */
+
 text-align: center;
 font-size: 30px;
 }
@@ -44,12 +44,9 @@ overflow: hidden;   /* ← verhindert Scrollen */
 }
 
 body {  
-color: rgb(243, 247, 0);
 background-image: url("ChatGPT Image 7. Feb. 2026, 11_38_29.png");
-background-size: contain;   /* ← WICHTIG */
 background-position: center;
 background-repeat: no-repeat;
-background-color: rgba(11, 0, 110, 0.645);   /* Balken-Farbe */
 text-align: center;
 font-size: 30px;
 }
